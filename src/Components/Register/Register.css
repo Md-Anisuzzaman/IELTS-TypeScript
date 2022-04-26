@@ -1,0 +1,42 @@
+.register-body{
+    text-align: center;
+    /* margin: 80px; */
+    background-color: #0E2653;
+    /* width: 420px; */
+    /* height: 600px; */
+    /* margin-left: 500px; */
+    /* margin: auto; */
+    padding: 50px 0px;
+}
+.register-container{
+    background-color:#010c18 ;
+    border: 2px solid gray;
+    width: 420px;
+    height: 600px;
+}
+
+
+
+.input-filed{
+   
+}
+
+.register-input-filed input{
+    width: 80%;
+    height: 35px;
+    margin-top: 10px;
+     margin-left: 35px;
+}
+
+.btn-style-register{
+    width: 30%;
+    font-size: 20px;
+    margin-top: 30px;
+  
+}
+
+@media (min-width:350px) and  (max-width:767px){
+    .register-container{
+     width: 100%;
+    }
+}

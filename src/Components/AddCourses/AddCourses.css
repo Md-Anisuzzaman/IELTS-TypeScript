@@ -1,0 +1,22 @@
+.add-Course form{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 30px;
+}
+
+
+h2{
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom:50px ;
+}
+
+.add-Course form input, textarea{
+    width: 40%;
+    border: none;
+    border-bottom: 2px solid gray;
+    margin-bottom: 20px;
+    outline: none;   
+}

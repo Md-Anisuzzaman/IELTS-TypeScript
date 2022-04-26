@@ -1,0 +1,51 @@
+.login-body {
+    background-color: #198754;
+    ;
+    padding: 50px 0px;
+}
+
+.login-container {
+    text-align: center;
+    background-color: #010c18;
+    border: 2px solid gray;
+    width: 420px;
+    height: 500px;
+    margin-right: 50px;
+    margin: auto;
+   
+}
+
+
+
+.img-style-login {}
+
+
+.input-filed {}
+
+.input-filed input {
+    width: 80%;
+    height: 35px;
+    margin-top: 10px;
+    margin-left: 60px;
+
+}
+
+.btn-style {
+    width: 30%;
+    font-size: 20px;
+    margin-top: 30px;
+    margin-left: 15px;
+}
+
+
+@media (min-width:350px) and (max-width:767px) {
+    .input-filed input {
+        margin-left: 35px;
+
+    }
+
+    .login-container {
+        width: 100%;
+    }
+
+}

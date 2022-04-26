@@ -1,0 +1,30 @@
+.courses-body{
+    background-color: #0E2653;
+    /* border: 5px solid white; */
+} 
+
+.row h1{
+    text-align: center;
+    color: rgba(0, 0, 0, 0.774);
+    margin-top: 1rem;
+    /* margin-left: 500px; */
+}
+ 
+.cart{
+    background-color: #67517c;
+    /* height: 450px; */
+    height: 385px;
+    margin: 15px;
+    border: 1px solid gray;
+    color: white;
+}
+
+.img-size{
+    /* display:inline-block; */
+    overflow:hidden; 
+}
+
+.p-container{
+   display: flex;
+  flex-direction: column;
+}

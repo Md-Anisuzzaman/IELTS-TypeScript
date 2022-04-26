@@ -1,0 +1,68 @@
+[
+    {
+        "id": 1,
+        "name": "Reading",
+        "class": "60",
+        "duration": "120 Minute",
+        "details": "The IELTS reading test will take about 60 minutes. It consists of 40 questions. A variety of question types is used in order to test a wide range of reading skills. These include reading for gist, reading for main ideas, reading for detail, skimming, understanding logical.",
+        "img": "https://iotcdn.oss-ap-southeast-1.aliyuncs.com/2018-08/IELTS%20Mock%20Test%20Reading.png"
+    },
+    {
+        "id": 2,
+        "name": "Listening",
+        "class": "60",
+        "duration": "120 Minute",
+        "details": "The IELTS listening test will take about 30 minutes, and you will have an extra 10 minutes to transfer your answers to the answer sheet. The listening test is the same for both IELTS Academic and IELTS General Training modules.",
+        "img": "https://www.britishcouncil.org.tr/sites/default/files/12_tips_to_improve_your_ielts_listening_and_reading_scores_.png"
+    },
+    {
+        "id": 3,
+        "name": "Writing",
+        "class": "60",
+        "duration": "120 Minute",
+        "details": "The IELTS Academic writing Test includes two tasks. Topics are of general interest to, and suitable for anyone entering undergraduate or postgraduate studies or seeking professional registration.",
+        "img": "https://iappadm.iapply.io/uploads/images/IELTS-Reading.png"
+    },
+    {
+        "id": 4,
+        "name": "Speaking",
+        "class": "60",
+        "duration": "120 Minute",
+        "details": "IELTS Speaking test is a face-to-face interview, which will take about 11 to 14 minutes. The Speaking test is designed to assess your use of spoken English. Every test is recorded.",
+        "img": "https://blearning.edu.vn/storage/frontend/blearning-edu-vn/upload/images/tintuc/L0g3_ielts-speaking.png"
+    },
+    {
+        "id": 5,
+        "name": "Reading Mock Test",
+        "class": "After Registration",
+        "duration": "60 Minute",
+        "details": "IELTS Speaking test is a face-to-face interview, which will take about 11 to 14 minutes. The Speaking test is designed to assess your use of spoken English. Every test is recorded.",
+        "img": "https://d2cyt36b7wnvt9.cloudfront.net/exams/wp-content/uploads/2020/06/13143036/IELTS-General-Reading-Practice-Test.png"
+    },
+    {
+        "id": 6,
+        "name": "Writing Mock Test",
+        "class": "After Registration",
+        "duration": "60 Minute",
+        "details": "IELTS Speaking test is a face-to-face interview, which will take about 11 to 14 minutes. The Speaking test is designed to assess your use of spoken English. Every test is recorded.",
+        "img": "https://2aih25gkk2pi65s8wfa8kzvi-wpengine.netdna-ssl.com/ielts/files/2021/05/Writing-Practice-Test.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Listening Mock Test",
+        "class": "After Registration",
+        "duration": "60 Minute",
+        "details": "IELTS Speaking test is a face-to-face interview, which will take about 11 to 14 minutes. The Speaking test is designed to assess your use of spoken English. Every test is recorded.",
+        "img": "https://www.testpreptraining.com/blog/wp-content/uploads/2019/02/IELTS-Listening-Test-1.png"
+    },
+    {
+        "id": 8,
+        "name": "Speaking Mock Test",
+        "class": "After Registration",
+        "duration": "60 Minute",
+        "details": "IELTS Speaking test is a face-to-face interview, which will take about 11 to 14 minutes. The Speaking test is designed to assess your use of spoken English. Every test is recorded.",
+        "img": "https://keithspeakingacademy.com/wp-content/uploads/2021/07/Practice-Tests.png"
+    }
+
+    
+]

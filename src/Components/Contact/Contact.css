@@ -1,0 +1,200 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+    ;
+}
+
+.contact {
+    position: relative;
+    min-height: 100vh;
+    padding: 50px 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    /* background: url('https://leverageedu.com/blog/wp-content/uploads/2019/09/Study-in-Europe.jpg');
+    background-size: cover;
+    background-attachment:fixed;
+    background-repeat: no-repeat; */
+    background-color: #0E2653;
+}
+
+.contact .content {
+    max-width: 800px;
+    text-align: center;
+}
+
+.contact .content h2 {
+    font-size: 36px;
+    font-weight: 500;
+    color: #fff;
+    margin-bottom: 20px;
+}
+
+.contact .content p {
+    font-weight: 500;
+    font-size: 20px;
+    color: tomato;
+    /* color:#fff; */
+}
+
+.container {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* border: 1px solid red; */
+    /* margin-top: 30px; */
+}
+
+.contactInfo-container{
+  padding-top: 50px;
+  padding-bottom: 50px;
+
+}
+
+.container .contactInfo {
+    width: 50px;
+    display: flex;
+    flex-direction: column;
+}
+
+.contactInfo{
+    margin-top: 70px;
+}
+
+.container .contactInfo .box {
+    position: relative;
+    padding: 20px 0;
+    display: flex;
+}
+
+
+.contact-body{
+   display: flex;
+   flex-wrap: wrap;
+   justify-content: space-between;
+   width: 100%;
+   margin-top: 40px;
+   /* margin-right: 50px; */
+
+} 
+
+.contact-body .contactInfo{
+  width: 50%; 
+ 
+     
+}
+
+.contact-body .contactForm{
+    width: 50%;  
+     
+}
+
+.contact-body .contactInfo .box{
+    display: flex;
+}
+.contact-body .contactInfo .box .icon{}
+.contact-body .contactInfo .box .icon i{
+    display: inline-block;
+    height: 40px;
+    width: 40px;
+    line-height: 40px;
+    border-radius: 50%;
+    border:1px solid white;
+    text-align: center;
+    margin-right: 10px ;
+    margin-top: 5px ;
+    background-color: thistle;
+}
+.contact-body .contactInfo .box .text{}
+
+.contact-body .contactInfo .box .text h3{
+    color: gold;
+    
+}
+
+.contact-body .contactInfo .box .text p{
+    color: white;
+}
+
+  
+
+.contactForm form {
+    /* background-color: #fff; */
+    padding: 20px;
+    margin-top: 28px;
+    box-shadow: 20px;
+}
+.contactForm form h2 {
+    color:white;
+    margin-top: 8px;
+    margin-bottom: 15px;
+    /* display: block; */
+}
+.contactForm form h2 .inputBox {}
+.contactForm .inputBox .name-field {
+    width: 100%;
+    height: 40px;
+}
+.contactForm .inputBox .email-field{
+    width: 100%;
+    height: 40px; 
+}
+.contactForm form span{
+    color:white;
+}
+/* .contactForm form.inputBox span {
+    margin-bottom: 20px;
+    width: 100%;
+    display: block;
+} */
+.contactForm form .inputBox textarea {
+    width:100%;
+    height: 180px;
+}
+.contactForm form .inputBox .btn-submit{
+   width: 100%;
+   font-size: 20px;
+}
+
+
+@media (max-width:991px) {
+    .contact {
+        padding: 50px;
+    }
+    .container {
+        flex-direction: column;
+    }
+    /* .container.contactInfo {
+        margin-bottom: 40px;
+    } */
+    .contact-body{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        margin-left: 25px;
+        /* margin-bottom: 50px; */
+    }
+ 
+}
+
+@media (min-width:350px) and  (max-width:990px){
+   .contact-body .contactForm{
+       width: 100%;
+   }
+
+   .contactForm{
+    width: 100%;
+   }
+
+   
+.contact-body .contactInfo{
+   
+       
+  }
+    
+}
