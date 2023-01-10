@@ -28,7 +28,7 @@ const AddCourse = () => {
             details: data.details,
             img: data.img,
         };
-        axios.post('http://localhost:5000/addcourses', userData)
+        axios.post('http://localhost:5000/addcourses', userData) 
             .then(res => {
                 console.log(res);
             })
